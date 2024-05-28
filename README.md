@@ -8,3 +8,5 @@ I'm also working on making a 2D game engine in Python -- https://github.com/epim
 Hopefully you find some of my stuff interesting.
 
 Cheers!
+
+P.S. More contributions = more rizz
