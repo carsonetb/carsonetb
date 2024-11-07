@@ -6,3 +6,11 @@ My game team won the Oregon Game Project Challenge (OGPC) twice in a row so far,
 Hopefully you find some of my stuff interesting.
 
 Cheers!
+
+Also here's a fancy list of all my "skills" ...
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=godot,py,java,git,vscode,windows,cpp,dotnet,androidstudio,opencv,blender,discord,flask,github,powershell,&perline=9" />
+  </a>
+</p>
