@@ -1,4 +1,4 @@
-Hi, I'm Carson Bates, I like programming and making games in Godot.
+Hi, I'm Carson Bates, I like programming and making games in Godot. I am currently a Freshman in high school.
 I only ask questions in internet searchable forums, and so should you.
 
 My game team won the Best In Show at a competition called OGPC in all three of our middle school years. You can check out our website at [https://epimetheus.games](https://epimetheusgames.github.io/). 
