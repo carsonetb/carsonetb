@@ -11,7 +11,7 @@ Also here's a fancy list of all my "skills" ...
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=godot,py,java,git,vscode,windows,cpp,dotnet,androidstudio,opencv,blender,discord,flask,github,powershell,&perline=9" />
+    <img src="https://skillicons.dev/icons?i=godot,cpp,py,java,dotnet,git,vscode,windows,androidstudio,discord,github,powershell,&perline=9" />
   </a>
 </p>
 
