@@ -4,6 +4,8 @@ I only ask questions in internet searchable forums, and so should you.
 My game team won the Best In Show at a competition called OGPC in all three of our middle school years. You can check out our website at [https://epimetheus.games](https://epimetheusgames.github.io/). 
 Currently I am working on a modification of the Godot Game Engine to include multi-user support. You can see my progress on the dev branch of [carsonetb/godot](https://github.com/carsonetb/godot)!
 
+You may email me at me@carsonetb.com (supposedly any handle @carsonetb.com should work)
+
 Hopefully you find some of my stuff interesting.
 
 Cheers!
