@@ -8,6 +8,8 @@ I am a member of FRC team [3636 Generals](3636.gay) ([@FRC3636](https://github.c
 My game team won the Best In Show at a competition called OGPC in all three of our middle school years. You can check out our website at [https://epimetheus.games](https://epimetheusgames.github.io/). 
 Currently I am working on a modification of the Godot Game Engine to include multi-user support. You can see my progress on the dev branch of [carsonetb/godot](https://github.com/carsonetb/godot)!
 
+My profile might say pro but rest assured I did not pay for it.
+
 You may email me at me@carsonetb.com (supposedly any handle @carsonetb.com should work)
 
 Hopefully you find some of my stuff interesting.
