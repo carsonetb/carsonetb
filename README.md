@@ -27,6 +27,6 @@ Also here's a fancy list of all my "skills" ...
 And also a fancy thing with all my stats ...
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=carsonetb&show_icons=true&theme=dark&locale=en" alt="carsonetb" /></p>
-[![GitHub Streak](https://streak-stats.demolab.com?user=carsonetb&theme=dark&mode=weekly)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=carsonetb&theme=dark&mode=weekly" alt="GitHub Streak" /></a>
 
 Lock in.
