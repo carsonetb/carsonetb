@@ -1,4 +1,4 @@
-## Reamde
+## Readme
 
 Hi, I'm Carson Bates, I like programming and making games in Godot. I am currently a Freshman in high school.
 Here are some of the things I'm interested in:
@@ -34,7 +34,7 @@ Also here's a fancy list of all my "skills" ...
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=godot,cpp,c,cmake,py,kotlin,java,cs,dotnet,git,vscode,vscodium,arch,linux,windows,androidstudio,discord,github,powershell,blender,gamemakerstudio,gmail,raspberrypi,&perline=9" />
+    <img src="https://skillicons.dev/icons?i=godot,cpp,py,java,dotnet,git,vscode,windows,androidstudio,discord,github,powershell,&perline=9" />
   </a>
 </p>
 
@@ -43,3 +43,4 @@ And also a fancy thing with all my stats ...
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=carsonetb&show_icons=true&theme=dark&locale=en" alt="carsonetb" /></p>
 
 Lock in.
+
