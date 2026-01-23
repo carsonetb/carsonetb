@@ -40,7 +40,11 @@ Also here's a fancy list of all my "skills" ...
 
 And also a fancy thing with all my stats ...
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=carsonetb&show_icons=true&theme=dark&locale=en" alt="carsonetb" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-fast.vercel.app/api?username=carsonetb&show_icons=true&theme=dark&locale=en" alt="carsonetb" /></p>
+
+And some _more_ stats!
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats-fast.vercel.app/api/streak?username=carsonetb&show_icons=true&theme=dark&locale=en" alt="carsonetb" /></p>
 
 Lock in.
 
