@@ -18,6 +18,7 @@ I have done stuff in quite a few programming languages including (in alphabetica
 - Javascript
 - Kotlin
 - Python
+- Rust
 
 I am a member of FRC team [3636 Generals](3636.gay) ([@FRC3636](https://github.com/FRC3636/))
 
