@@ -14,6 +14,7 @@ I have done stuff in quite a few programming languages including (in alphabetica
 - C
 - C++
 - C#
+- Haskell
 - Java
 - Javascript
 - Kotlin
