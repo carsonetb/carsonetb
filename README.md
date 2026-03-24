@@ -1,6 +1,6 @@
 ## Readme
 
-Hi, I'm Carson Bates, I like programming and making games in Godot. I am currently a Freshman in high school.
+Hi, I'm Carson Bates (carsonetb), I like programming and making games in Godot. I am currently a Freshman in high school.
 Here are some of the things I'm interested in:
 
 - Robotics
@@ -23,10 +23,18 @@ I have done stuff in quite a few programming languages including (in alphabetica
 
 I am a member of FRC team [3636 Generals](3636.gay) ([@FRC3636](https://github.com/FRC3636/))
 
-I've developed a (work in progress) compiled programming language called [CBLang](https://github.com/carsonetb/cblang-llvm)
+Here are some of my projects:
+
+- [Hydro](https://github.com/carsonetb/hydro), a compiled programming language written in Rust
+- [CBLang](https://github.com/carsonetb/cblang-llvm), a compiled programming language written in Python
+- [Eyesore](https://github.com/epimetheusgames/eyesore), a game where death is not the end
+- [Project Prometheus](https://github.com/epimetheusgames/project-prometheus), a game about cycles
+- [MultiGodot](https://github.com/carsonetb/multigodot), a work-in-progress multi-user modification of the Godot game engine
+- A [port](https://github.com/carsonetb/procedural-planets) of Sebastian Lague's procedural planets simulation into Godot
+
+I've developed a (work in progress) compiled programming language called [Hydro](https://github.com/carsonetb/hydro) in Rust, and another in Python called [CBLang](https://github.com/carsonetb/cblang-llvm)
 
 My game team won the Best In Show at a competition called OGPC in all three of our middle school years. You can check out our website at [https://epimetheus.games](https://epimetheusgames.github.io/). 
-Currently I am working on a modification of the Godot Game Engine to include multi-user support. You can see my progress on the dev branch of [carsonetb/godot](https://github.com/carsonetb/godot)!
 
 You may email me at me@carsonetb.com (supposedly any handle @carsonetb.com should work)
 
