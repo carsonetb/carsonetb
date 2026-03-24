@@ -21,7 +21,7 @@ I have done stuff in quite a few programming languages including (in alphabetica
 - Python
 - Rust
 
-I am a member of FRC team [3636 Generals](3636.gay) ([@FRC3636](https://github.com/FRC3636/))
+I am a member of FRC team [3636 Generals](https://3636.gay) ([@FRC3636](https://github.com/FRC3636/))
 
 Here are some of my projects:
 
