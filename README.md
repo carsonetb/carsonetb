@@ -26,37 +26,100 @@ on are first:
 
 I have done stuff in quite a few programming languages including (in alphabetical order), along with stuff I've done using them:
 
-- C
+<details>
+<summary>C:</summary>
+<br>
+
   - Simple OpenGL mesh renderer
   - Code for my compiler projects
-- C++
+
+</details>
+
+<details>
+<summary>C++:</summary>
+<br>
+  
   - An interpreter
   - Modifications and contribution to the Godot Game Engine
-- C#
+
+</details>
+
+<details>
+<summary>C#:</summary>
+<br>
+  
   - A Chess bot (~1400 elo)
-- Godot
+
+</details>
+
+<details>
+<summary>Godot:</summary>
+<br>
+
+  - This isn't technically a programming language, but we'll put it in here.
   - Three games, each winning Best In Show at the Oregon Game Project Challenge.
   - A port of Sebastian Lague's Procedural Planets to Godot
   - A few contributions to the source code as well (:
-- Haskell
+
+</details>
+
+<details>
+<summary>Haskell:</summary>
+<br>
+
   - JSON parsing project
-- Java
+
+</details>
+
+<details>
+<summary>Java:</summary>
+<br>
+
   - 2024-25 robot code for my school's FTC team
-- Javascript
+
+</details>
+
+<details>
+<summary>Javascript:</summary>
+<br>
+
   - Generic web design stuff (I want to get into TypeScript)
-- Kotlin
+
+</details>
+
+<details>
+<summary>Kotlin:</summary>
+<br>
+
   - 2025 and 2025-26 robot code for my high school's FRC team
-- OCaml (tentatively)
-- Python
+
+</details>
+
+<details>
+<summary>Ocaml (tentatively)</summary>
+</details>
+
+<details>
+<summary>Python:</summary>
+<br>
+
   - A compiler,
   - And another,
   - A 3D Robotics simulator for FRC, integrated with real-life robot code, using Google's MuJoCo
   - A small interpreter for the DreamBerd meme language
   - Advent of Code 2024 and 2025, with varying levels of success.
-- Rust
+
+</details>
+
+<details>
+<summary>Rust:</summary>
+<br>
+
   - A compiler,
   - And another,
   - A small renderer built on top of SDL3, utilizing SDFs.
+
+</details>
 
 You may email me at me@carsonetb.com (supposedly any handle @carsonetb.com should work)
 
