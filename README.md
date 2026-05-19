@@ -1,29 +1,10 @@
 ## Readme
 
-Hi, I'm Carson Bates (carsonetb), I like programming and making games in Godot. I am currently a Freshman in high school.
-Here are some of the things I'm interested in:
+Hi, I'm Carson Bates (carsonetb), I like programming and making games in Godot.
 
-- Robotics
-- Game development
-- Programming language and compiler design
-- Computer networking
-- Bullet points???
+*PSST: There are more interesting things past this genuine army of bullet points :)*
 
-I have done stuff in quite a few programming languages including (in alphabetical order):
-
-- C
-- C++
-- C#
-- Haskell
-- Java
-- Javascript
-- Kotlin
-- Python
-- Rust
-
-I am a member of FRC team [3636 Generals](https://3636.gay) ([@FRC3636](https://github.com/FRC3636/))
-
-Here are some of my projects:
+Here are some of my more important projects / accomplishments / affiliations:
 
 - [Hydro](https://github.com/carsonetb/hydro), a compiled programming language written in Rust
 - [CBLang](https://github.com/carsonetb/cblang-llvm), a compiled programming language written in Python
@@ -31,10 +12,51 @@ Here are some of my projects:
 - [Project Prometheus](https://github.com/epimetheusgames/project-prometheus), a game about cycles
 - [MultiGodot](https://github.com/carsonetb/multigodot), a work-in-progress multi-user modification of the Godot game engine
 - A [port](https://github.com/carsonetb/procedural-planets) of Sebastian Lague's procedural planets simulation into Godot
+- My game team won the Best In Show at a competition called OGPC in all three of our middle school years. You can check out our website at [https://epimetheus.games](https://epimetheusgames.github.io/).
+- I'm a member of FRC Team 3636, The Generals!
 
-I've developed a (work in progress) compiled programming language called [Hydro](https://github.com/carsonetb/hydro) in Rust, and another in Python called [CBLang](https://github.com/carsonetb/cblang-llvm)
+Here are some of the things I'm interested in, things that I've most recently worked
+on are first:
 
-My game team won the Best In Show at a competition called OGPC in all three of our middle school years. You can check out our website at [https://epimetheus.games](https://epimetheusgames.github.io/). 
+- Programming language and compiler design
+- Robotics
+- Game development
+- Computer networking
+- Bullet points!!
+
+I have done stuff in quite a few programming languages including (in alphabetical order), along with stuff I've done using them:
+
+- C
+  - Simple OpenGL mesh renderer
+  - Code for my compiler projects
+- C++
+  - An interpreter
+  - Modifications and contribution to the Godot Game Engine
+- C#
+  - A Chess bot (~1400 elo)
+- Godot
+  - Three games, each winning Best In Show at the Oregon Game Project Challenge.
+  - A port of Sebastian Lague's Procedural Planets to Godot
+  - A few contributions to the source code as well (:
+- Haskell
+  - JSON parsing project
+- Java
+  - 2024-25 robot code for my school's FTC team
+- Javascript
+  - Generic web design stuff (I want to get into TypeScript)
+- Kotlin
+  - 2025 and 2025-26 robot code for my high school's FRC team
+- OCaml (tentatively)
+- Python
+  - A compiler,
+  - And another,
+  - A 3D Robotics simulator for FRC, integrated with real-life robot code, using Google's MuJoCo
+  - A small interpreter for the DreamBerd meme language
+  - Advent of Code 2024 and 2025, with varying levels of success.
+- Rust
+  - A compiler,
+  - And another,
+  - A small renderer built on top of SDL3, utilizing SDFs.
 
 You may email me at me@carsonetb.com (supposedly any handle @carsonetb.com should work)
 
@@ -56,5 +78,12 @@ And some _more_ stats!
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats-fast.vercel.app/api/streak?username=carsonetb&show_icons=true&theme=dark&locale=en" alt="carsonetb" /></p>
 
-Lock in.
+--------
 
+*ESTRAGON: Charming spot. Inspiring prospects. Let's go.*
+  
+*VLADIMIR: We can't.*
+  
+*ESTRAGON: Why not?*
+
+*VLADIMIR: We're waiting for Godot.*
