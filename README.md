@@ -2,7 +2,7 @@
 
 Hi, I'm Carson Bates (carsonetb), I like programming and making games in Godot.
 
-*There are more interesting things past these of bullet points :)*
+*There are more interesting things past these bullet points :)*
 
 Here are some of my more important projects / accomplishments / affiliations:
 
